@@ -15,7 +15,7 @@ https://aescripts.com/learn/post/zxp-installer
 ### Step 2 — Install the Plugin
 
 - Open the ZXP Installer  
-- Drag & drop the `easecontrols.zxp` file into the installer  
+- Drag & drop the `EaseControls.zxp` file into the installer  
 - Follow the installation process  
 
 ---
